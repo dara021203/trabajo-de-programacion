@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Tarea de curso programacion\Tarea de curso programacion\bin\Debug\Tarea de curso programacion.exe.config
+C:\Users\Admin\source\repos\Tarea de curso programacion\Tarea de curso programacion\bin\Debug\Tarea de curso programacion.exe
+C:\Users\Admin\source\repos\Tarea de curso programacion\Tarea de curso programacion\bin\Debug\Tarea de curso programacion.pdb
+C:\Users\Admin\source\repos\Tarea de curso programacion\Tarea de curso programacion\obj\Debug\Tarea de curso programacion.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Tarea de curso programacion\Tarea de curso programacion\obj\Debug\Tarea_de_curso_programacion.Clientes.resources
+C:\Users\Admin\source\repos\Tarea de curso programacion\Tarea de curso programacion\obj\Debug\Tarea_de_curso_programacion.Form1.resources
+C:\Users\Admin\source\repos\Tarea de curso programacion\Tarea de curso programacion\obj\Debug\Tarea_de_curso_programacion.Properties.Resources.resources
+C:\Users\Admin\source\repos\Tarea de curso programacion\Tarea de curso programacion\obj\Debug\Tarea de curso programacion.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Tarea de curso programacion\Tarea de curso programacion\obj\Debug\Tarea de curso programacion.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tarea de curso programacion\Tarea de curso programacion\obj\Debug\Tarea de curso programacion.exe
+C:\Users\Admin\source\repos\Tarea de curso programacion\Tarea de curso programacion\obj\Debug\Tarea de curso programacion.pdb
